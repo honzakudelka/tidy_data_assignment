@@ -1,4 +1,4 @@
-# Codebook for tidy_averages.csv
+# Codebook for tidy_averages.txt
 ## Dataset variables
 The data set consists of the average (mean) of measurements taken during several activities, done by 30 subjects. Each subject is marked "XN", where N is the ID of the subject (1-30). 
 
@@ -19,7 +19,7 @@ The raw data, that was used to generate our tidy_averages is from the Human Acti
 8. calculate the column mean for each split of the data
 9. merge the lists, created during the splitting, by calling as.data.frame. 
 10. take the transpose of the output in 9. to get tidier results
-11. export the resulting dataframe from 10. as .csv
+11. export the resulting dataframe from 10. as .txt
 
 
 
